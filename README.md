@@ -1,5 +1,4 @@
-# finalCapstone
-# Sentiment Analysis on Amazon Product Reviews
+# finalCapstone - Sentiment Analysis on Amazon Product Reviews
 ## Description
 This project performs sentiment analysis on a dataset of Amazon product reviews, specifically focusing on the All New Fire HD 8 Tablet. It aims to identify consumer sentiment trends, categorizing reviews into positive, and negative sentiments, and evaluating the subjectivity and similarity of these reviews. The insights gained can help understand consumer behaviour.
 
